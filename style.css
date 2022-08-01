@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Edu+NSW+ACT+Foundation:wght@400;500&family=Kanit:wght@100;200&family=Lora:wght@400;700&display=swap');
+body{
+    margin: 0px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color:black;
+    display: block;
+}
+#nav-name {
+    font-weight: bold;
+    font-size: 1.8rem;
+    background-color: #fcd34d;
+    height: 6rem;
+    text-align:center;
+    padding: 1rem;
+}
+#pg-heading{
+    text-align: center;
+}
+#h2{
+    text-align: center;;
+}
+#input-div{
+    max-width: 800px;
+    margin:auto;    
+}
+#txt-input{
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding:1rem;
+    border: 2px solid black;
+}
+#button-div{
+    margin: auto;
+    max-width: 800px;
+}
+#btn-translate{
+    background-color: #fcd34d; 
+    padding : 1rem 2rem;
+    border: none;
+    margin: 1rem 0rem;
+    font-size: medium;
+}
+#output-div{
+    max-width: 800px;
+    margin: auto;
+}
+#output-message{
+    
+    font-size: x-large;
+    font-weight: bold;
+    text-align:center;
+}
+#txt-output{ 
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding:1rem;
+    border: 2px solid black;
+}
+#footercontainer{
+    background-color: #fcd34d;
+    height: 6rem;
+    text-align: center;
+    padding: 1rem;                             
+}
+#footer-header{
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+#footer-message{
+    font-size: 1.2rem
+}
